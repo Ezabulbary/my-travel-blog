@@ -1,0 +1,29 @@
+body {
+    height: auto;
+    width: 50%;
+    margin: 100px auto;
+    background-color: #fae587;
+    border: 30px solid #6d7900;
+    border-radius: 10px;
+}
+.blog{
+    background-color: #ce7706;
+    border: 10px solid #ffe600;
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    background: linear-gradient(rgba(83, -83, -83, 0.705));
+}
+h3{
+    text-align: center;
+}
+span{
+    color: yellowgreen;
+}
